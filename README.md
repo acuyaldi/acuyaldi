@@ -22,7 +22,7 @@ Learner • Tech Enthusiast • Building things step by step
 
 ### 📊 GitHub Stats
 <p>
-![stats](https://github-readme-stats.vercel.app/api?username=acuyaldi&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=acuyaldi&show_icons=true&cache_seconds=86400)
 </p>
 
 ---
