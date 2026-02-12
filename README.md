@@ -22,8 +22,7 @@ Learner • Tech Enthusiast • Building things step by step
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=acuyaldi&show_icons=true&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acuyaldi&layout=compact&hide_border=true" height="150">
+https://github-readme-stats.vercel.app/api?username=acuyaldi
 </p>
 
 ---
