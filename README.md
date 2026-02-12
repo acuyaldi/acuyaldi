@@ -14,7 +14,7 @@ Learner • Tech Enthusiast • Building things step by step
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux" />
 </p>
 
 
