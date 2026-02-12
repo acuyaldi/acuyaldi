@@ -22,7 +22,7 @@ Learner • Tech Enthusiast • Building things step by step
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=acuyaldi&show_icons=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=acuyaldi&theme=transparent" />
 </p>
 
 
